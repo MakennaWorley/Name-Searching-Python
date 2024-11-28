@@ -1,0 +1,11 @@
+Question 1: What is this Mexican person's full name?
+Bruteforce- Andres Manuel Lopez Castillo
+Horspool- Andres Manuel Lopez Castillo
+
+Question 2: What is this Arabic person's full name?
+Bruteforce- Harun Abdulla Muhammad
+Horspool- Harun Abdulla Muhammad
+
+Question 3: What is this Chinese person's full name in eastern order?
+Bruteforce- Huang Tianyi
+Horspool- Huang Tianyi
